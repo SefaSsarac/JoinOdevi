@@ -37,3 +37,5 @@ Kullanım: Birden fazla sorgu arasında ortak kayıtları bulmak için kullanıl
 Tanım: İlk sorgunun sonuç kümesinde olup, ikinci sorgunun sonuç kümesinde bulunmayan benzersiz kayıtları döndürür.
 Kullanım: İlk sorguda bulunan ancak ikinci sorguda bulunmayan kayıtları bulmak için kullanılır.
 
+Kullanılan teknoloji: PostgreSQL
+
